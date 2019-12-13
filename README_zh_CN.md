@@ -1,10 +1,5 @@
 # TX-LCN分布式事务框架 (5.0.2.RELEASE)
 
-[![Maven](https://img.shields.io/badge/endpoint.svg?url=https://bbs.txlcn.org/maven-central)](https://bbs.txlcn.org/maven-list)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/codingapi/tx-lcn/blob/master/LICENSE)
-[![Gitter](https://badges.gitter.im/codingapi/tx-lcn.svg)](https://gitter.im/codingapi/tx-lcn?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-
 ## 项目介绍
 
 5.0完全拥抱springboot体系，基于JDK1.8，不仅仅支持LCN事务模式，同时引入了TCC，TXC模式，把分布式事务协调的模式抽象出来，让各种模式可以嵌套使用。
@@ -38,7 +33,3 @@ TCC忽略不说。LCN与TXC两种框架实现的事务模式到底那个更优�
 ## 官网文档
 
 官网:https://www.txlcn.org    
-统计:[留下您的公司信息](https://github.com/codingapi/tx-lcn/issues/7)    
-
-技术交流群：554855843(已满) 970071379(未满)
-
